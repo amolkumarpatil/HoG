@@ -44,3 +44,7 @@ So, we will have 105x36x1 = 3780 total features for image of 64x128 size.
 * hog.py is used to calculate and and visualize histogram of an image
 
 `python hog.py -i <image_path>` 
+
+* hog_pd_detector.py is used to detect and localize pedestrians in an image
+
+`python hog_pd_detector.py -i <image_path>` 
